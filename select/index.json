@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "HELL! or HELL?",
+  "base_artist": "RAISE A SUILEN",
+  "createdAt": "2025-12-25T15:28:39.443577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HELL! or HELL? - instrumental",
+      "artist": "RAISE A SUILEN",
+      "has_synced": false,
+      "path": "select/01_HELL!_or_HELL__-_instrumental_RAISE_A_SUILEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HELL! or HELL?",
+      "artist": "RAISE A SUILEN",
+      "has_synced": false,
+      "path": "select/02_HELL!_or_HELL_RAISE_A_SUILEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HELL! or HELL?",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/03_HELL!_or_HELL_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HELL! or HELL?",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/04_HELL!_or_HELL_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HELL! or HELL? -instrumental-",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/05_HELL!_or_HELL__-instrumental-_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hell Or Hell",
+      "artist": "Raise A SUILEN",
+      "has_synced": false,
+      "path": "select/06_Hell_Or_Hell_Raise_A_SUILEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HELL! or HELL?",
+      "artist": "RAISE A SUILEN",
+      "has_synced": false,
+      "path": "select/pl_01_HELL!_or_HELL_RAISE_A_SUILEN.txt"
+    }
+  ]
+}
